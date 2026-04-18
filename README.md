@@ -2,29 +2,32 @@
 
 I am a Doctor of Information Technology specializing in Cybersecurity, with a concentration in applied defense strategies, risk analysis, and adversarial simulation. My work integrates governance, technical security controls, and hands-on offensive/defensive methodologies to analyze and mitigate modern threat landscapes.
 
-My experience spans:
+#### My experience spans:
 
 ##### Cybersecurity engineering and analysis — penetration testing, vulnerability assessment, and network traffic analysis using tools such as Nmap, Nessus, Metasploit, Wireshark, and Kali Linux
-Governance, Risk, and Compliance (GRC) — implementation and evaluation of frameworks including NIST, ISO 27001, GDPR, PCI-DSS, HIPAA, and Essential Eight
-Threat modeling and adversary simulation — leveraging MITRE ATT&CK, attack simulations, and structured wargaming methodologies
-IoT security research — secure communication design (TLS/mTLS), attack surface analysis, and simulation of exploits such as replay attacks
-AI-driven automation and analytics — development of agent-based systems, data pipelines, and intelligence dashboards for trend and behavioral analysis
-What you’ll find here
-Security labs and attack simulation environments
-Research-driven cybersecurity implementations
-GRC frameworks translated into practical tooling and documentation
-AI-assisted analytical systems and workflow automation
-Experimental prototypes demonstrating real-world threat scenarios
-Current Focus
-Cybersecurity wargaming and simulation-based defense strategies
-Threat detection, monitoring, and visualization systems
-Applied research bridging academic theory with operational security practices
-Development of structured methodologies for organizational cyber resilience
-Publications & Research
+##### Governance, Risk, and Compliance (GRC) — implementation and evaluation of frameworks including NIST, ISO 27001, GDPR, PCI-DSS, HIPAA, and Essential Eight
+##### Threat modeling and adversary simulation — leveraging MITRE ATT&CK, attack simulations, and structured wargaming methodologies
+##### IoT security research — secure communication design (TLS/mTLS), attack surface analysis, and simulation of exploits such as replay attacks
+##### AI-driven automation and analytics — development of agent-based systems, data pipelines, and intelligence dashboards for trend and behavioral analysis
+
+#### What you’ll find here
+##### Security labs and attack simulation environments
+##### Research-driven cybersecurity implementations
+##### GRC frameworks translated into practical tooling and documentation
+##### AI-assisted analytical systems and workflow automation
+##### Experimental prototypes demonstrating real-world threat scenarios
+
+#### Current Focus
+##### Cybersecurity wargaming and simulation-based defense strategies
+##### Threat detection, monitoring, and visualization systems
+##### Applied research bridging academic theory with operational security practices
+##### Development of structured methodologies for organizational cyber resilience
+
+#### Publications & Research
 
 Author of Cybersecurity Through Simulation: 5 Wargaming Strategies for Protecting Business Infrastructure, translating academic research into actionable defense strategies for practitioners.
 
-Philosophy
+#### Philosophy
 
 Security is not static. Systems must be continuously tested, modeled, and stressed against adversarial conditions to remain resilient.
 
