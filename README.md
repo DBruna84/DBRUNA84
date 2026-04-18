@@ -4,7 +4,7 @@ I am a Doctor of Information Technology specializing in Cybersecurity, with a co
 
 My experience spans:
 
-# Cybersecurity engineering and analysis — penetration testing, vulnerability assessment, and network traffic analysis using tools such as Nmap, Nessus, Metasploit, Wireshark, and Kali Linux
+#### Cybersecurity engineering and analysis — penetration testing, vulnerability assessment, and network traffic analysis using tools such as Nmap, Nessus, Metasploit, Wireshark, and Kali Linux
 Governance, Risk, and Compliance (GRC) — implementation and evaluation of frameworks including NIST, ISO 27001, GDPR, PCI-DSS, HIPAA, and Essential Eight
 Threat modeling and adversary simulation — leveraging MITRE ATT&CK, attack simulations, and structured wargaming methodologies
 IoT security research — secure communication design (TLS/mTLS), attack surface analysis, and simulation of exploits such as replay attacks
